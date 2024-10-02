@@ -1,6 +1,11 @@
-./ngrok authtoken #For host live server
 
 # Django-School-Management-System
+![Homescreen](https://github.com/user-attachments/assets/b035f818-3fd6-453b-8cd8-d2a74f1feb75)
+
+![Login screen](https://github.com/user-attachments/assets/3f1fd078-1756-40d2-87a9-ceca92d5ec6c)
+
+![registration screen](https://github.com/user-attachments/assets/c321ae1c-a5a2-4273-92b4-64c746b696e9)
+
 
 This app is meant to be used by school manager to manage their school records:
 student data
